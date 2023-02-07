@@ -14,3 +14,5 @@
 </div><br/>
 
 🎓| Cursando Análise e Desenvolvimento de Sistema na SPTech
+
+![snake gif](https://github.com/DiigoTardeo/DiigoTardeo/blob/output/github-contribution-grid-snake.svg)
